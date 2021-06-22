@@ -1,0 +1,2 @@
+# mygitactions
+git ci
